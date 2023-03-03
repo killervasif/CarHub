@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarHub", "CarHub\CarHub.csproj", "{F64AB413-0DD4-4981-A668-35576D71F5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLock", "DeadLock\DeadLock.csproj", "{C5DAE21A-632F-4BD9-BC5A-0A2761ABAF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64AB413-0DD4-4981-A668-35576D71F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64AB413-0DD4-4981-A668-35576D71F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64AB413-0DD4-4981-A668-35576D71F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64AB413-0DD4-4981-A668-35576D71F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DAE21A-632F-4BD9-BC5A-0A2761ABAF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DAE21A-632F-4BD9-BC5A-0A2761ABAF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DAE21A-632F-4BD9-BC5A-0A2761ABAF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DAE21A-632F-4BD9-BC5A-0A2761ABAF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93CF9265-2C97-433D-A0E1-0127940F471E}
+	EndGlobalSection
+EndGlobal
